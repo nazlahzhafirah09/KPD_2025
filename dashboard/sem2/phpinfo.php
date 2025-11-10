@@ -9,6 +9,8 @@ echo "Nama :" .$nama. "<br>";
 echo "Nama :" .$umur. "<br>";
 echo "Nama :" .$berat. "<br>";
 
+
+
 ?>
 
 
